@@ -4,7 +4,7 @@ To be used in conjunction with Youtube video #82 https://www.youtube.com/c/Ralph
 
 
 
-Add this addresses to File > Preferences > Additional Boards Manager URLs  
+Add this address to File > Preferences > Additional Boards Manager URLs  
 https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
 
 Other boards can be added too if you want:  
